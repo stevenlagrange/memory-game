@@ -1,0 +1,52 @@
+.card-image {
+  width: 60%;
+  height: auto;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.card-value {
+  height: 100%;
+  width: auto;
+}
+
+.card-wrapper {
+  width: 170px;
+  height: 170px;
+  display: inline-block;
+  margin: 16px;
+  position: relative;
+  text-align: center;
+  left: 0px;
+  overflow: hidden;
+}
+
+.card {
+  height: 90%;
+  width: 90%;
+  background-color: #95afa0;
+  color: white;
+  margin: auto;
+  vertical-align: middle;
+  text-align: center;
+  border-radius: 5px;
+  border-color: #97B7A8;
+  border-style: solid;
+}
+
+.card > h3 {
+   line-height: 153px !important;
+}
+
+.matched-card {
+  border-color: #ECCBCD;
+  border-style: solid;
+  background-color: white;
+  color: black;
+  border-width: thick;
+}
+
+.show-card {
+  background-color: white;
+  color: black;
+}

@@ -1,0 +1,52 @@
+.game {
+  text-align: center;
+  margin: auto;
+  background-color: #E1E2E1;
+  font-family: 'Roboto Mono';
+  height: 100%;
+}
+
+.wrapper {
+  padding-top: 24px;
+    background-color:#7f6775;
+}
+
+.game-table {
+  margin: auto;
+  width: 100%;
+  background-color: inherit;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.game-header {
+  background-color:#af95a4;
+  color: black;
+  padding: 8px;
+  margin: auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  width: 100%;
+}
+
+.header-title {
+  display: inline-block;
+  left: 0px;
+}
+
+.game-stats {
+  text-transform: uppercase;
+}
+
+.game-btn {
+  background-color: #3e96aa !important;
+  border: none;
+}
+
+.game-info {
+  padding: 0px;
+}
+
+.container {
+   width: 50%;
+}
